@@ -21,6 +21,7 @@ A simple badminton scoreboard application built with Svelte for the frontend and
 ### Frontend (Svelte)
 
 1. Clone the repository:
-
-''''
+'''
 git clone https://github.com/yourusername/badminton-scoreboard.git
+'''
+
